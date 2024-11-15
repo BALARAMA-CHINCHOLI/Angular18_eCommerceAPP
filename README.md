@@ -1,1 +1,2 @@
 # Angular18_eCommerceAPP
+Angular18_eCommerce Application used the new features of Angular18 of signals and integrated APIs in the server by effect method and fetched the data from server men's, women's, and jewelry items. They are also sorting, filtering, and adding to the cart the list of items. Admin module: order list, card list, customer, website module. User registration and list items: the authenticated person can log in and add list items to the cart.
